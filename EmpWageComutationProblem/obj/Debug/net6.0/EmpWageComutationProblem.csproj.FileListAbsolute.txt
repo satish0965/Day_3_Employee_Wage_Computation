@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\bin\Debug\net6.0\EmpWageComutationProblem.exe
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\bin\Debug\net6.0\EmpWageComutationProblem.deps.json
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\bin\Debug\net6.0\EmpWageComutationProblem.runtimeconfig.json
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\bin\Debug\net6.0\EmpWageComutationProblem.dll
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\bin\Debug\net6.0\EmpWageComutationProblem.pdb
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.AssemblyInfo.cs
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.dll
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\refint\EmpWageComutationProblem.dll
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.pdb
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\EmpWageComutationProblem.genruntimeconfig.cache
+C:\Users\acer\source\repos\EmpWageComutationProblem\EmpWageComutationProblem\obj\Debug\net6.0\ref\EmpWageComutationProblem.dll
